@@ -677,7 +677,6 @@ footer.copyright{
      header.topbar, nav{
          display: none;
         }
- }
  .top-products .slider-btn{
      display: none !important;
  }
@@ -688,6 +687,7 @@ footer.copyright{
      margin-right: 0;
      margin-bottom: 4rem;
  }
+}
 
  @media (max-width:768px){
     section.services .card-wrap{
