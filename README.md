@@ -4,7 +4,7 @@ This is a responsive online food ordering web app.</h3>
 
 * Language: HTML, CSS, Javascript.
 
-* Platform: VS Studio Code.
+* Platform: Visual Studio Code.
 
 # OUTPUT
 <h3>WEB APP VIEW</h3>
