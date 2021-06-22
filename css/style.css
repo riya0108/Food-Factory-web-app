@@ -140,12 +140,6 @@ header.topbar .auth .divider{
 header.topbar .auth > div img{
     margin-right: 0.35rem;;
 }
-header.topbar .container{
- 
-}
-header.topbar .container .auth{
-
-}
 .flex{
     display: flex;
 }
@@ -445,7 +439,7 @@ section.services .service-card{
     margin-right: 2rem;
     position: relative;
     border-radius: 4px;
-  
+    flex:1;
 }
 section.services .service-card .icon{
     position: absolute;
@@ -677,6 +671,7 @@ footer.copyright{
      header.topbar, nav{
          display: none;
         }
+ 
  .top-products .slider-btn{
      display: none !important;
  }
